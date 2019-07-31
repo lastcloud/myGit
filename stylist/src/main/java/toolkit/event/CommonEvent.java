@@ -1,4 +1,4 @@
-package toolkit;
+package toolkit.event;
 
 import org.springframework.context.ApplicationEvent;
 import javax.jms.Message;
